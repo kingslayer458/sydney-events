@@ -4,6 +4,8 @@ A modern web application for discovering and exploring events happening in Sydne
 
 ![Sydney Events Preview](sid1.png)
 ![Sydney Events Preview](sid2.png)
+![Sydney Events Preview](sid3.png)
+![Sydney Events Preview](sid4.png)
 
 ## Features
 
