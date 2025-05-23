@@ -1,6 +1,7 @@
 # Sydney Events
 
 A modern web application for discovering and exploring events happening in Sydney. Built with a focus on user experience and beautiful design, this platform helps users find concerts, festivals, exhibitions, and more happening around the city.
+##
 🚀 **Live Demo:** [sydney live events](https://sydney-events-railway-production.up.railway.app/)
 
 ![Sydney Events Preview](sid1.png)
